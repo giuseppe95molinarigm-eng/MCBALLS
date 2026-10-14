@@ -1,0 +1,32 @@
+shot,sequenza,in_s,out_s,durata_s,mondo,personaggio,inquadratura,azione,start_frame,end_frame,riferimenti,musica,sfx_chiave
+1A,1 Il dramma,0.0,3.0,3.0,reale interno,Macpalle normale + padrone,WS a filo pavimento statica,miagola davanti alla porta,si,no,R1 R4 R5-A,no,miagolii lamentosi
+1B,1 Il dramma,3.0,6.0,3.0,reale interno,Macpalle normale,MS push-in lento,guarda porta-padrone-porta piangendo,si,no,R1 R2 R5-A,no,miagolii crescenti
+1C,1 Il dramma,6.0,8.0,2.0,reale interno,padrone + testa Macpalle,basso sulle gambe statica,padrone immobile,si,no,R4 R1 R5-A,no,singhiozzo
+2A,2 L'insistenza,8.0,10.5,2.5,reale interno,zampa Macpalle + padrone,CU stinco e Crocs,tocca la gamba e guarda la porta,si,no,R4 R1,no,tap tap
+2B,2 L'insistenza,10.5,12.0,1.5,reale interno,padrone + Macpalle,basso laterale,Crocs blocca la porta,si,no,R4 R1 R5-A,no,squeak Crocs
+2C,2 L'insistenza,12.0,14.0,2.0,transizione,Macpalle normale,CU->ECU push-in nell'occhio,pianto->sguardo sicuro + flash oro,si,si,R1 R2 R7,pad da 12.5,miagolio lunghissimo troncato a 13.2
+3A,3 Trasformazione,14.0,16.0,2.0,immaginario,normale->muscoloso,LA di spalle statica,si alza e si trasforma,si,si,R1 R3 R7,downbeat 14.0,boom trasformazione
+3B,3 Trasformazione,16.0,18.0,2.0,immaginario,muscoloso,LA figura intera orbita 15°,scrocchia il collo,si,no,R3 R7,azione,crack collo
+3C,3 Trasformazione,18.0,20.0,2.0,immaginario,muscoloso,CU frontale statica,sguardo strafottente in camera,si,no,R3 R2 R7,azione,ding
+4A,4 Parkour,20.0,22.0,2.0,immaginario,muscoloso,tracking laterale,corsa sulle tegole,si,no,R3 R7,parkour 140bpm,passi rapidi
+4B,4 Parkour,22.0,24.0,2.0,immaginario,muscoloso,bassa frontale,volteggio sul comignolo,si,no,R3 R7,parkour,tak + whoosh
+4C,4 Parkour,24.0,25.5,1.5,immaginario,muscoloso,WS controluce,salto tra tetti,si,no,R3 R7,parkour,whoosh lungo
+4D,4 Parkour,25.5,27.0,1.5,immaginario,muscoloso,MS in aria camera che ruota,capriola,si,no,R3 R7,parkour,spin whoosh
+4E,4 Parkour,27.0,29.0,2.0,immaginario,muscoloso,LA frontale statica,atterraggio da supereroe e si rialza,si,si,R3 R2 R7,parkour,impatto
+5A,5 Uccelli,29.0,30.0,1.0,immaginario,muscoloso + 2 piccioni,MS,piccioni sbarrano il passo,si,no,R8 R3 R7,variazione kung-fu,ali
+5B,5 Uccelli,30.0,31.5,1.5,immaginario,muscoloso + piccione,laterale rallenty 50%,schivata,si,no,R8 R3 R7,kung-fu,whoosh lento
+5C,5 Uccelli,31.5,33.0,1.5,immaginario,muscoloso + piccione,MS frontale,parata arti marziali,si,no,R8 R3 R7,kung-fu,thwack
+5D,5 Uccelli,33.0,34.5,1.5,immaginario,muscoloso + piccioni,CU frontale shake,ruggito,si,no,R3 R8 R7,stop poi kung-fu,ruggito
+5E,5 Uccelli,34.5,36.0,1.5,immaginario,muscoloso,ECU,soffia via la piuma,si,no,R3 R2,kung-fu,pff
+6A,6 Gatti,36.0,38.0,2.0,immaginario,muscoloso + 2 gatti,MS camera circolare,lo circondano,si,no,R8 R3 R7,build,soffi
+6B,6 Gatti,38.0,39.5,1.5,immaginario,muscoloso + 2 gatti,WS leggermente dall'alto,attacco e schivata,si,no,R8 R3 R7,build,whoosh incrociati
+6C,6 Gatti,39.5,41.0,1.5,immaginario,muscoloso + 2 gatti,MS,i gatti si scontrano,si,si,R8 R3 R7,build,BONK
+6D,6 Gatti,41.0,43.0,2.0,immaginario,muscoloso,LA push-in lento,posa vittoriosa sul comignolo,si,no,R3 R7,culmine,accordo finale
+7A,7 Ritorno,43.0,44.5,1.5,reale interno,Macpalle normale,a filo pavimento statica,zampa ancora alzata poi la abbassa,si,no,R1 R5-A,TAGLIO a 43.0,cigolio porta
+7B,7 Ritorno,44.5,46.0,1.5,reale interno,padrone,basso statica,porta si apre verso fuori e Crocs si sposta,si,si,R4 R5-A R5-B,no,cigolio + vento
+7C,7 Ritorno,46.0,48.0,2.0,reale soglia,Macpalle normale + Crocs,basso da dietro,guarda su e mette una zampa fuori,si,no,R1 R4 R5-B,no,tic tegola
+8A,8 Vero coraggio,48.0,50.0,2.0,reale esterno,Macpalle normale + piccione,basso,piccione tuba e lui si blocca,si,no,R1 R8 R6-A,no,gru-gru
+8B,8 Vero coraggio,50.0,52.0,2.0,reale esterno,Macpalle normale,bassa frontale,inciampa e cade sul sedere,si,si,R1 R2 R6-A,no,puf
+8C,8 Vero coraggio,52.0,54.0,2.0,reale esterno,Macpalle normale,WS verso porta e riparo,corsa goffa verso la tegola,si,no,R1 R6-B,no,corsetta
+8D,8 Vero coraggio,54.0,56.0,2.0,reale esterno,Macpalle normale,stretto sul riparo,si infila sotto la tegola,si,si,R1 R6-C,no,fruscio + toc
+9A,9 Sguardo finale,56.0,60.0,4.0,reale esterno,Macpalle normale + Crocs,push-in lentissimo,paura->sguardo strafottente,si,si,R2 R6-C R4,no,silenzio + miagolino a 58.75

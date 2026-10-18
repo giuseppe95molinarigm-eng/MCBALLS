@@ -14,6 +14,7 @@ Macpalle, gatto certosino goffo, implora di uscire sul tetto, si immagina un ero
 | [`produzione/05_vincoli_negativi.md`](produzione/05_vincoli_negativi.md) | Negative prompt comuni (immagini e video) e controlli manuali. |
 | [`produzione/06_audio_e_montaggio.md`](produzione/06_audio_e_montaggio.md) | Ordine clip, transizioni, punti musica, effetti con timecode, mix ed export per Final Cut Pro. |
 | [`produzione/07_flusso_operativo_e_costi.md`](produzione/07_flusso_operativo_e_costi.md) | Cosa è già fatto, cosa richiede strumenti esterni, costi stimati, come abilitare la generazione automatica. |
+| [`produzione/08_guida_higgsfield.md`](produzione/08_guida_higgsfield.md) | **Piano scelto**: guida operativa Higgsfield (piano, budget crediti, procedura, rimedi). |
 | [`produzione/shotlist.csv`](produzione/shotlist.csv) | Shot list in formato tabellare (importabile in fogli di calcolo). |
 | `riferimenti/forniti/` | Riferimenti originali di stile e personaggio + sceneggiatura originale. |
 

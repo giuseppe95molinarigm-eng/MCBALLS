@@ -51,42 +51,9 @@ Ho controllato fonti online a ottobre 2026, ma sono quasi tutte di terze parti e
 
 Per ridurre i costi: fai le prove di movimento con un modello più economico (ad es. una versione "Turbo"), e usa il modello Pro solo sulle varianti finali.
 
-## Piano "budget minimo" (consigliato): ~20–40 $
+## Piano scelto: Higgsfield (tutte le 31 inquadrature animate)
 
-Principio: **niente abbonamenti mensili**, si paga a consumo solo ciò che si genera, e la spesa va quasi tutta nel video.
-
-1. **Un solo account a consumo: fal.ai.** Contiene sia il modello per le immagini (Nano Banana Pro o equivalente) sia Kling per i video. Ricarichi un credito, imposti un limite e non c'è rinnovo automatico. Si usa dal sito (playground) oppure lo uso io, se abiliti chiave e rete.
-2. **Non tutte le inquadrature devono diventare video AI.** Queste 10 si fanno in Final Cut Pro partendo dal keyframe fisso, con zoom, spostamento, scuotimento e dissolvenze:
-
-   | Shot | Come in FCP |
-   |---|---|
-   | 1C | Immagine fissa + leggero zoom lento; la testa del gatto sale con una keyframe di posizione. |
-   | 2C | START e END in dissolvenza incrociata di 6 fotogrammi durante uno zoom 100→180%, poi flash oro. |
-   | 4C | Macpalle in silhouette ritagliato (sfondo scontornato) che attraversa il sole con una keyframe di posizione e un arco. |
-   | 5A | Fisso + piccolo "punch-in" a scatto all'atterraggio dei piccioni. |
-   | 5D | Fisso + effetto Shake + zoom rapido 100→115%. |
-   | 6B | Due fotogrammi alternati a scatto ("smear" cartoon) + motion blur. |
-   | 6C | START → END a stacco secco sull'impatto (il "BONK" fa il lavoro). |
-   | 6D | Fisso + push-in lento + bagliore pulsante. |
-   | 7A | START + seconda immagine con la zampa abbassata, stacco sul suono. |
-   | 8D | START → END con dissolvenza di 4 fotogrammi + "toc". |
-
-   Restano **21 clip video**. Lo stile cartoon tollera bene questi trucchi, che sono comuni nell'animazione limitata.
-3. **Due passaggi sul video**: prima una variante per clip con il modello economico (Kling "Turbo"/standard) per verificare il movimento; poi rigeneri col modello Pro **solo** le clip che non vanno bene. Massimo 2 tentativi per clip.
-4. **Animatic prima di spendere sul video**: con i soli keyframe e l'audio monto un'anteprima di 60 s per verificare ritmo e comicità. Le inquadrature deboli si correggono a costo quasi zero.
-5. **Audio gratuito**: miagolii registrati dal vero, effetti da Freesound (licenza CC0) o Pixabay, musica epica libera da diritti da YouTube Audio Library o Pixabay Music. ElevenLabs solo se manca qualcosa (con il piano gratuito l'uso è non commerciale).
-6. **Montaggio**: Final Cut Pro, che hai già.
-
-Stima (prezzi a consumo indicativi, da verificare su fal.ai):
-
-| Voce | Calcolo | Costo |
-|---|---|---|
-| Immagini (8 riferimenti + ~40 keyframe, ~2,5 varianti) | ~120 immagini × 0,04–0,15 $ | 5–18 $ |
-| Video, primo passaggio | 21 clip × 5 s × ~0,07 $/s | ~7 $ |
-| Video, rigenerazioni Pro (~metà delle clip) | 11 × 5 s × ~0,112 $/s | ~6 $ |
-| Margine per errori e ripetizioni | | ~5–10 $ |
-| Audio | gratuito | 0 $ |
-| **Totale** | | **~25–40 $** (limite di spesa consigliato: 40 $) |
+Scelta del 18/10/2026: un solo abbonamento **Higgsfield Plus**, un mese, senza rinnovo. Tutte le inquadrature diventano clip video. Guida operativa completa in [`08_guida_higgsfield.md`](08_guida_higgsfield.md).
 
 ## Flusso di lavoro concreto (passo per passo)
 

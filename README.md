@@ -16,6 +16,7 @@ Macpalle, gatto certosino goffo, implora di uscire sul tetto, si immagina un ero
 | [`produzione/07_flusso_operativo_e_costi.md`](produzione/07_flusso_operativo_e_costi.md) | Cosa è già fatto, cosa richiede strumenti esterni, costi stimati, come abilitare la generazione automatica. |
 | [`produzione/08_guida_higgsfield.md`](produzione/08_guida_higgsfield.md) | **Piano scelto**: guida operativa Higgsfield (piano, budget crediti, procedura, rimedi). |
 | [`produzione/09_voiceover.md`](produzione/09_voiceover.md) | Testo del narratore con tempi, generazione voce e mix. |
+| [`produzione/10_frasi_chatgpt.md`](produzione/10_frasi_chatgpt.md) | **Metodo attuale**: frasi semplici in italiano per generare tutte le immagini con ChatGPT. |
 | [`produzione/shotlist.csv`](produzione/shotlist.csv) | Shot list in formato tabellare (importabile in fogli di calcolo). |
 | `riferimenti/forniti/` | Riferimenti originali di stile e personaggio + sceneggiatura originale. |
 

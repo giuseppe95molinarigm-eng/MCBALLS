@@ -2,33 +2,38 @@
 
 > Prezzi e crediti raccolti a ottobre 2026 da fonti in gran parte non ufficiali e **non sempre concordi**. Prima di pagare, controlla la pagina prezzi ufficiale di Higgsfield e il costo in crediti mostrato accanto al pulsante di generazione.
 
-## 1. Quale piano
+## 1. Quale piano (aggiornato dalla schermata prezzi del 18/10/2026)
 
-**Higgsfield Plus, mensile, un solo mese** (circa 59 $ al mese; con fatturazione annuale costa meno al mese ma ti impegna per 12 mesi).
+Pacchetti mostrati da Higgsfield **con fatturazione annuale** (sconto 40%, impegno di 12 mesi):
 
-- Il piano **Plus** è indicato come il primo che include il **controllo di fotogramma iniziale e finale** (start/end frame), che ci serve. Lo Starter non basta né come funzioni né come crediti.
-- Il Plus include circa **1.200 crediti** al mese.
-- I piani a pagamento includono l'uso commerciale.
-- Subito dopo l'iscrizione, **disattiva il rinnovo automatico** nelle impostazioni dell'account: i crediti restano usabili fino alla fine del mese pagato. Verifica nelle condizioni se i crediti scadono a fine periodo, e usali tutti entro quella data.
+| Pacchetto | Prezzo (annuale, al mese) | Totale annuo | Note |
+|---|---|---|---|
+| 16.500 crediti | 11,99 € | ~144 € | Nessuna generazione illimitata |
+| 40.000 crediti | 23,99 € | ~288 € | ∞ generazioni senza crediti su 17 modelli |
+| 80.000 crediti | 41,66 € | ~500 € | ∞ come sopra; 900 generazioni veloci, 5 in parallelo. Prezzo mensile: 69,99 € |
 
-## 2. Budget in crediti
+Il pacchetto da 80.000 dichiara "fino a 1.600 video, 8.000 immagini, 16 ore di voiceover": le cifre "fino a" sono calcolate sui modelli più economici. In proporzione sono circa **50 crediti a video**, **10 a immagine** e **~80 al minuto di voce**.
 
-Costi indicativi per generazione: **Nano Banana Pro ≈ 2 crediti** per immagine (alcune fonti dicono illimitato per i piani a pagamento); **Kling 3.0, 5 s: ≈ 7 crediti a 720p, ≈ 8 a 1080p**.
+**Per un solo episodio:**
+1. Seleziona **Monthly**, non Yearly: l'annuale ti impegna per 12 mesi.
+2. In "See all plans" verifica che il pacchetto da **16.500** includa Kling 3.0 con fotogramma iniziale e finale, Nano Banana Pro e il Voiceover.
+3. Dopo l'iscrizione, prima di generare, controlla quanti crediti costa **una clip Kling 3.0 da 5 s, 9:16, con START+END** (il costo appare accanto al pulsante di generazione).
+   - **Fino a ~120 crediti per clip** → il pacchetto da **16.500** basta.
+   - **Oltre ~120 crediti per clip** → serve il **40.000**, che rende anche gratuite le immagini sui modelli illimitati.
+4. Disattiva subito il rinnovo automatico. I crediti si rinnovano ogni mese e con ogni probabilità non si accumulano: usali entro il mese.
+
+Se prevedi altri episodi di McBalls nei prossimi mesi, l'annuale da 16.500 (11,99 €/mese) diventa conveniente.
+
+## 2. Budget in crediti (scala attuale, da verificare nell'app)
 
 | Fase | Quantità | Crediti stimati |
 |---|---|---|
-| Riferimenti R1–R8 (circa 4 tentativi ciascuno, più varianti) | ~40 immagini | ~80 |
-| Keyframe START/END (40 immagini, ~3 tentativi) | ~120 immagini | ~240 |
-| Correzioni (orecchio, mani, dettagli) | ~30 immagini | ~60 |
-| Clip video, 31 inquadrature × 3 tentativi, 5 s, 1080p | ~93 clip | ~745 |
-| **Totale** | | **~1.125 su 1.200** |
+| Riferimenti, keyframe, correzioni | ~190 immagini × ~10 | ~1.900 (0 se Nano Banana Pro è tra i modelli illimitati del tuo piano) |
+| Clip video Kling 3.0, 31 inquadrature × 3 tentativi | ~93 clip × costo reale per clip | 93 × 50 = ~4.650 … 93 × 150 = ~14.000 |
+| Voiceover (~1 minuto, con 2–3 prove per battuta) | ~3 min | ~250 |
+| **Totale** | | **~7.000–16.000** |
 
-Margine stretto: per non sforare
-- fai la **prima prova di ogni clip a 720p** (≈7 crediti) e passa a 1080p solo per la versione buona;
-- non superare **3 tentativi per clip**; se dopo 3 non va, semplifica il prompt o cambia START/END invece di insistere;
-- tieni d'occhio il saldo dopo ogni sequenza (tabella al punto 6).
-
-Se i crediti finiscono prima del montaggio, Higgsfield vende pacchetti extra; prima di acquistarli chiedimi di rivedere le clip mancanti: spesso basta accorciare o semplificare l'azione.
+Per stare larghi: fai le prove a 720p, passa a 1080p solo per la versione buona e non superare 3 tentativi per clip.
 
 ## 3. Strumenti da usare dentro Higgsfield
 
@@ -80,14 +85,14 @@ Ordine consigliato per le clip: prima le scene reali e semplici (1A, 1B, 1C, 7A,
 
 ## 6. Registro crediti (da compilare)
 
-| Sequenza | Crediti previsti | Crediti usati | Saldo |
+| Sequenza | Generazioni previste | Crediti usati | Saldo |
 |---|---|---|---|
-| Riferimenti R1–R8 | 80 | | |
-| Keyframe Seq. 1–2 | 50 | | |
-| Keyframe Seq. 3–6 | 130 | | |
-| Keyframe Seq. 7–9 | 60 | | |
-| Correzioni | 60 | | |
-| Clip Seq. 1–2 (6 clip) | 145 | | |
-| Clip Seq. 3–6 (17 clip) | 410 | | |
-| Clip Seq. 7–9 (8 clip) | 190 | | |
-| **Totale** | **~1.125** | | |
+| Riferimenti R1–R8 | ~40 immagini | | |
+| Keyframe Seq. 1–2 | ~25 immagini | | |
+| Keyframe Seq. 3–6 | ~65 immagini | | |
+| Keyframe Seq. 7–9 | ~30 immagini | | |
+| Correzioni | ~30 immagini | | |
+| Voiceover | 9 battute × 2–3 prove | | |
+| Clip Seq. 1–2 (6 clip) | ~18 clip | | |
+| Clip Seq. 3–6 (17 clip) | ~51 clip | | |
+| Clip Seq. 7–9 (8 clip) | ~24 clip | | |

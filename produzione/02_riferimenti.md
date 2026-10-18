@@ -23,13 +23,15 @@ Se un generatore inverte l'orecchio, **non specchiare l'intera immagine** (cambi
 
 ---
 
+> **Decisione dopo la prima prova (18/10/2026):** la scheda a 5 viste generata con Nano Banana 2 è uscita più pulita, piatta e azzurrina del riferimento, con corpi tagliati da artefatti. **R1 = i tre riferimenti forniti (01, 02, 03), approvati così come sono.** Il colore corretto del mantello è il **grigio caldo tendente al tortora** dei riferimenti, non il blu-grigio. Nei prompt il modello va ancorato allo stile con una frase breve come *"Keep the exact drawing style, line work, colours and fur texture of @imgX"*, perché le descrizioni di stile lunghe lo rendono generico.
+
 ## R1 — Scheda di Macpalle normale (turnaround)
 
 Riferimenti da allegare: 01, 02, 03.
 
 ```
 Character model sheet, 2D hand-drawn cartoon illustration, dark expressive ink outlines of varying weight, fur suggested by small short pen strokes, slightly desaturated colours, painterly paper-grain texture, simple cartoon shapes; not 3D, not photorealistic. Plain light warm-grey background, no scenery.
-Character: Macpalle, a Chartreux cat with a uniform blue-grey coat, dark slate-grey nose, pale whiskers, golden-yellow eyes with round black pupils, medium build with a modest little belly (neither skinny nor fat). Only the tiny tip of his anatomical RIGHT ear is cropped off with a straight, clean, fully healed edge; the ear is otherwise intact, no bite marks, no notches. In front view the cropped ear appears on the viewer's LEFT.
+Character: Macpalle, a Chartreux cat with a uniform warm taupe-grey coat, dark slate-grey nose, pale whiskers, golden-yellow eyes with round black pupils, medium build with a modest little belly (neither skinny nor fat). Only the tiny tip of his anatomical RIGHT ear is cropped off with a straight, clean, fully healed edge; the ear is otherwise intact, no bite marks, no notches. In front view the cropped ear appears on the viewer's LEFT.
 Show five views in one row, same scale, same character: front view standing on four legs; three-quarter front view; left side profile; back view; and his signature pose — sitting upright on his bottom like a person, hind legs spread forward, belly visible, front paws resting relaxed on the belly, two small furry testicles of an intact male cat naturally visible between the hind legs, small and not emphasized.
 Expression in all views: smug, knowing face, eyelids half closed, direct gaze, small asymmetric smirk.
 Wide horizontal sheet, 16:9.
@@ -41,7 +43,7 @@ Riferimenti: R1 approvato, 01.
 
 ```
 Expression sheet, 2D hand-drawn cartoon illustration, dark expressive ink outlines, fur suggested by small pen strokes, slightly desaturated colours, painterly paper texture; not 3D, not photorealistic. Plain light warm-grey background.
-Six head-and-shoulders portraits, front view, of Macpalle, a Chartreux cat with uniform blue-grey coat, dark slate-grey nose, pale whiskers, golden-yellow eyes with round black pupils; only the tiny tip of his right ear is cropped with a straight healed edge, appearing on the viewer's left in front view; the ear is otherwise intact.
+Six head-and-shoulders portraits, front view, of Macpalle, a Chartreux cat with uniform warm taupe-grey coat, dark slate-grey nose, pale whiskers, golden-yellow eyes with round black pupils; only the tiny tip of his right ear is cropped with a straight healed edge, appearing on the viewer's left in front view; the ear is otherwise intact.
 Expressions labelled by position only (no text): 1) smug knowing look — eyelids half closed, direct gaze into camera, small asymmetric smirk, as if he understood something about the viewer; 2) dramatic crying meow — mouth open, ears flattened, glossy eyes; 3) sudden total confidence — tears gone, eyes narrowing; 4) terrified — eyes wide open, pupils huge, fur puffed; 5) dazed after falling — eyes unfocused; 6) eyes only peeking from darkness, wide open.
 No text, no letters. 16:9.
 ```
@@ -52,7 +54,7 @@ Riferimenti: R1, R2, 04.
 
 ```
 Character model sheet, 2D hand-drawn cartoon illustration, dark expressive ink outlines, fur suggested by small short pen strokes, slightly desaturated colours, painterly paper-grain texture, cartoon shapes; not 3D, not photorealistic. Plain light warm-grey background.
-Character: the imaginary hero version of Macpalle — an anthropomorphic half-cat half-man standing upright on two legs, exaggerated bodybuilder muscles (broad shoulders, big pecs, defined abs, thick arms and calves), whole body covered in short uniform blue-grey Chartreux fur, anthropomorphic hands with dark grey paw pads, digitigrade cat feet with pads, long blue-grey cat tail. He wears black athletic shorts with a thin grey side stripe and a silver military dog tag on a ball chain. His head is exactly normal Macpalle's cat head: same proportions, golden-yellow eyes with round black pupils, dark slate-grey nose, pale whiskers, and only the tiny tip of his anatomical right ear cropped with a straight healed edge (viewer's left in front view), ear otherwise intact.
+Character: the imaginary hero version of Macpalle — an anthropomorphic half-cat half-man standing upright on two legs, exaggerated bodybuilder muscles (broad shoulders, big pecs, defined abs, thick arms and calves), whole body covered in short uniform warm taupe-grey Chartreux fur, anthropomorphic hands with dark grey paw pads, digitigrade cat feet with pads, long warm taupe-grey cat tail. He wears black athletic shorts with a thin grey side stripe and a silver military dog tag on a ball chain. His head is exactly normal Macpalle's cat head: same proportions, golden-yellow eyes with round black pupils, dark slate-grey nose, pale whiskers, and only the tiny tip of his anatomical right ear cropped with a straight healed edge (viewer's left in front view), ear otherwise intact.
 Views: front with arms crossed; three-quarter; left profile; back; and close-up of the head with smug half-closed eyes and asymmetric smirk.
 16:9.
 ```

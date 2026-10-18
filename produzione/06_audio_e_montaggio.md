@@ -2,7 +2,7 @@
 
 ## Impostazioni progetto FCP
 - Nuovo progetto: **formato verticale 1080×1920, 24p**, audio stereo 48 kHz.
-- Ruoli audio: `Effetti` (SFX), `Ambiente`, `Gatto` (miagolii), `Musica`. Comodi per mixare e per esportare stem.
+- Ruoli audio: `Effetti` (SFX), `Ambiente`, `Gatto` (miagolii), `Musica`, `Voce` (narratore, vedi `09_voiceover.md`). Comodi per mixare e per esportare stem.
 - Importa le clip in una libreria "McBalls_EP01", eventi: `01_Clip`, `02_SFX`, `03_Musica`, `04_Ambiente`.
 - Le clip generate durano 5 s: ritaglia con il **trim** al tratto indicato in `04_prompt_animazione.md`. Se la clip è a 30 fps o 25 fps, imposta "Conformazione velocità automatica" e controlla che non ci siano fotogrammi duplicati a scatti.
 

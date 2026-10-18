@@ -1,7 +1,7 @@
 # McBalls — Ep. 1 "Il re del tetto" — Sceneggiatura tecnica definitiva
 
 - **Durata:** 60 s · **Formato:** verticale 9:16, 1080×1920 · **Frame rate:** 24 fps
-- **Niente dialoghi né voce narrante.** Solo miagolii, effetti, ambiente, musica.
+- **Niente dialoghi.** Voce narrante da documentario (testo e tempi in `09_voiceover.md`), più miagolii, effetti, ambiente e musica.
 - **Altezza camera:** sempre all'altezza di Macpalle (25–35 cm da terra), salvo dove indicato. Il padrone è inquadrato **solo dalla vita in giù**: il bordo superiore del quadro taglia sempre all'elastico dei pantaloncini o più in basso.
 - **Regola orecchio:** è tagliata solo la piccola punta dell'orecchio destro anatomico, bordo dritto e guarito. Inquadratura frontale → orecchio tagliato a **sinistra dello spettatore**. Di profilo sinistro (muso verso sinistra) l'orecchio tagliato è quello lontano dalla camera.
 

@@ -1,6 +1,6 @@
 # McBalls (Macpalle) — Episodio 1 "Il re del tetto"
 
-Animazione 2D illustrata, 60 s, verticale 9:16, senza dialoghi.
+Animazione 2D illustrata, 60 s, verticale 9:16, senza dialoghi, con voce narrante (vedi `produzione/09_voiceover.md`).
 Macpalle, gatto certosino goffo, implora di uscire sul tetto, si immagina un eroe muscoloso del parkour e delle arti marziali… e appena esce basta un piccione per farlo nascondere sotto una tegola.
 
 ## Pacchetto di produzione
@@ -15,6 +15,7 @@ Macpalle, gatto certosino goffo, implora di uscire sul tetto, si immagina un ero
 | [`produzione/06_audio_e_montaggio.md`](produzione/06_audio_e_montaggio.md) | Ordine clip, transizioni, punti musica, effetti con timecode, mix ed export per Final Cut Pro. |
 | [`produzione/07_flusso_operativo_e_costi.md`](produzione/07_flusso_operativo_e_costi.md) | Cosa è già fatto, cosa richiede strumenti esterni, costi stimati, come abilitare la generazione automatica. |
 | [`produzione/08_guida_higgsfield.md`](produzione/08_guida_higgsfield.md) | **Piano scelto**: guida operativa Higgsfield (piano, budget crediti, procedura, rimedi). |
+| [`produzione/09_voiceover.md`](produzione/09_voiceover.md) | Testo del narratore con tempi, generazione voce e mix. |
 | [`produzione/shotlist.csv`](produzione/shotlist.csv) | Shot list in formato tabellare (importabile in fogli di calcolo). |
 | `riferimenti/forniti/` | Riferimenti originali di stile e personaggio + sceneggiatura originale. |
 

@@ -80,6 +80,7 @@ Ordine consigliato per le clip: prima le scene reali e semplici (1A, 1B, 1C, 7A,
 
 | Problema | Rimedio |
 |---|---|
+| Kling sul piano non ha il fotogramma finale | Spezza in due clip e taglia in montaggio: **3A** (si alza + flash / parte già muscoloso), **8B** (inciampa / parte già seduto sul sedere), **9A** (occhi spalancati / parte già strafottente, dissolvenza di 4 fotogrammi), **2C** (pianto / sguardo sicuro + zoom nell'occhio). Nelle altre clip con END basta il solo START. |
 | Orecchio invertito o troppo tagliato nel keyframe | Correzione locale con Nano Banana Pro (prompt al punto 3), non rigenerare tutto. |
 | Il gatto diventa più realistico/3D nel video | Riduci l'intensità del movimento; togli movimenti di camera; riaggiungi in testa *"2D hand-drawn cartoon animation, flat, no 3D"*. |
 | Nel muscoloso il muso cambia a metà clip | Usa START **ed** END entrambi con il muso corretto; usa in montaggio solo il tratto prima della deriva. |

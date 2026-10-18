@@ -1,6 +1,7 @@
 # Prompt delle immagini di scena (keyframe) — inglese, pronti da copiare
 
 Come usarli:
+- **Pupille (decisione del 18/10/2026):** nelle scene di supplica, pianto e paura (1A–2C inizio, 7A–9A inizio) aggiungi *"Large dilated round black pupils filling most of the golden iris."*. Nelle facce strafottenti (2C fine, 3C, 9A fine) le pupille restano rotonde ma più piccole: il contrasto rende leggibile il cambio d'umore.
 - Allega sempre i riferimenti indicati in **Refs** (R1…R8 da `02_riferimenti.md`, già approvati).
 - Ogni prompt è **autonomo**: contiene stile, identità e ambiente. Non accorciarlo a "lo stesso gatto di prima".
 - Aggiungi sempre il blocco negativo comune di `05_vincoli_negativi.md` (campo negative prompt, oppure in coda come "Avoid: …" se lo strumento non ha un campo apposito).

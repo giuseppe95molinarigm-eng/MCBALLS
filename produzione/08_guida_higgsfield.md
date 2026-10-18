@@ -12,6 +12,10 @@ Pacchetti mostrati da Higgsfield **con fatturazione annuale** (sconto 40%, impeg
 | 40.000 crediti | 23,99 € | ~288 € | ∞ generazioni senza crediti su 17 modelli |
 | 80.000 crediti | 41,66 € | ~500 € | ∞ come sopra; 900 generazioni veloci, 5 in parallelo. Prezzo mensile: 69,99 € |
 
+Prezzi **mensili** (schermata "Monthly", senza impegno annuale): **16.500 crediti 19,99 €**, **40.000 crediti 39,99 €**, **80.000 crediti 69,99 €**. Nella vista mensile non compare il simbolo ∞: le generazioni illimitate risultano legate all'annuale, quindi su Monthly anche le immagini consumano crediti.
+
+**Scelta: 16.500 crediti, Monthly, 19,99 €.** Se i crediti non bastano si aggiungono crediti extra o si passa al pacchetto superiore, senza perdere il lavoro fatto.
+
 Il pacchetto da 80.000 dichiara "fino a 1.600 video, 8.000 immagini, 16 ore di voiceover": le cifre "fino a" sono calcolate sui modelli più economici. In proporzione sono circa **50 crediti a video**, **10 a immagine** e **~80 al minuto di voce**.
 
 **Per un solo episodio:**

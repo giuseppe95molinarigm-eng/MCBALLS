@@ -1,5 +1,7 @@
 # Guida operativa Higgsfield — Ep. 1 "Il re del tetto"
 
+> **Nota (18/10/2026):** l'abbonamento effettivamente acquistato è **Artlist AI Toolkit** (toolkit.artlist.io), piano 16.500 crediti Monthly, 19,99 €. Ha gli stessi modelli (Nano Banana Pro/2, Kling 3.0, Seedance, Veo), il Voiceover e la musica AI: tutte le istruzioni di questa guida valgono uguali. Utili in Artlist: la sezione **References** per salvare Macpalle come personaggio e richiamarlo con **@** nei prompt, e l'interruttore **Unlimited**, da provare per generare senza consumare crediti.
+
 > Prezzi e crediti raccolti a ottobre 2026 da fonti in gran parte non ufficiali e **non sempre concordi**. Prima di pagare, controlla la pagina prezzi ufficiale di Higgsfield e il costo in crediti mostrato accanto al pulsante di generazione.
 
 ## 1. Quale piano (aggiornato dalla schermata prezzi del 18/10/2026)

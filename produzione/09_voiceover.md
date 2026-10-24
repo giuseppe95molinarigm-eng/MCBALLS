@@ -3,7 +3,7 @@
 Aggiunto su richiesta (18/10/2026): un narratore racconta l'episodio. Sostituisce la scelta iniziale "niente voce narrante"; miagolii, effetti e ambiente restano.
 
 ## Tono
-Voce maschile adulta, calda e solenne, da **documentario naturalistico**, recitata sempre seriamente. La comicità nasce dal contrasto: il narratore descrive con enfasi epica ciò che Macpalle immagina, e con la stessa solennità la ritirata nella realtà. Niente ammiccamenti nella voce.
+**Lingua: inglese** (decisione del 24/10/2026). Voce maschile adulta, calda e solenne, da **documentario naturalistico**, recitata sempre seriamente. La comicità nasce dal contrasto: il narratore descrive con enfasi epica ciò che Macpalle immagina, e con la stessa solennità la ritirata nella realtà. Niente ammiccamenti nella voce.
 
 **Regola d'oro: il narratore tace sulle battute visive.** Restano senza voce il miagolio lungo con lo sguardo sicuro (2C), il cigolio della porta (7A), il "gru-gru" e la caduta (8A–8B) e tutto il finale (9A).
 
@@ -11,19 +11,19 @@ Voce maschile adulta, calda e solenne, da **documentario naturalistico**, recita
 
 | Timecode | Inquadratura | Battuta | Durata parlato |
 |---|---|---|---|
-| 0:00.5–0:02.8 | 1A | «Questo è Macpalle. Certosino.» | ~2,0 s |
-| 0:03.0–0:06.0 | 1B | «E piange perché dietro quella porta c'è l'unica cosa che desidera… il tetto.» | ~3,0 s |
-| 0:08.3–0:11.8 | 2A–2B | «Ma il padrone conosce il suo gatto. E la porta resta chiusa.» | ~3,5 s |
+| 0:00.5–0:02.8 | 1A | «This is McBalls. A Chartreux.» | ~2,0 s |
+| 0:03.0–0:06.0 | 1B | «And he's crying because behind that door lies the only thing he truly desires… the roof.» | ~3,0 s |
+| 0:08.3–0:11.8 | 2A–2B | «But his owner knows his cat. And the door stays shut.» | ~3,5 s |
 | 0:12.0–0:14.0 | 2C | *(silenzio: miagolio lungo e sguardo)* | — |
-| 0:15.0–0:19.0 | 3A–3C | «Perché lassù, Macpalle sa chi è davvero.» … *(pausa)* … «Il re del tetto.» | ~3,5 s |
-| 0:20.5–0:26.5 | 4A–4D | «Agile. Inarrestabile. Padrone di ogni tegola, di ogni comignolo.» | ~5,0 s |
-| 0:29.3–0:31.0 | 5A–5B | «I piccioni lo temono.» | ~1,5 s |
-| 0:36.3–0:38.0 | 6A | «I gatti del quartiere lo rispettano.» | ~1,8 s |
-| 0:41.3–0:43.0 | 6D | «Nessuno lo ha mai battuto.» | ~1,6 s |
+| 0:15.0–0:19.0 | 3A–3C | «Because up there, McBalls knows who he really is.» … *(pausa)* … «The King of the Roof.» | ~3,5 s |
+| 0:20.5–0:26.5 | 4A–4D | «Agile. Unstoppable. Master of every tile, of every chimney.» | ~5,0 s |
+| 0:29.3–0:31.0 | 5A–5B | «Pigeons fear him.» | ~1,5 s |
+| 0:36.3–0:38.0 | 6A | «The neighbourhood cats respect him.» | ~1,8 s |
+| 0:41.3–0:43.0 | 6D | «No one has ever beaten him.» | ~1,6 s |
 | 0:43.0–0:44.5 | 7A | *(silenzio: cigolio)* | — |
-| 0:45.0–0:47.5 | 7B–7C | «Ed ecco, finalmente… il suo regno.» | ~2,3 s |
+| 0:45.0–0:47.5 | 7B–7C | «And here it is, at last… his kingdom.» | ~2,3 s |
 | 0:48.0–0:52.0 | 8A–8B | *(silenzio: "gru-gru", caduta sul sedere)* | — |
-| 0:52.3–0:55.8 | 8C–8D | «Dopo un'attenta valutazione, il re sceglie… una ritirata strategica.» | ~3,5 s |
+| 0:52.3–0:55.8 | 8C–8D | «After careful consideration, the king chooses… a strategic retreat.» | ~3,5 s |
 | 0:56.0–1:00.0 | 9A | *(silenzio, poi minuscolo miagolio a 0:58.75)* | — |
 
 Totale circa 70 parole: ritmo lento e chiaro, con spazio per le gag.
@@ -34,11 +34,11 @@ Totale circa 70 parole: ritmo lento e chiaro, con spazio per le gag.
 
 **Come:**
 - genera **una battuta per file**, non tutto il testo insieme: così sistemi i tempi in Final Cut Pro senza tagliare le frasi;
-- scegli una voce italiana maschile matura, adatta a un documentario; provane 2–3 sulla prima battuta e poi tieni **sempre la stessa voce e le stesse impostazioni**;
+- scegli una voce inglese maschile matura (accento britannico da documentario), adatta a un documentario; provane 2–3 sulla prima battuta e poi tieni **sempre la stessa voce e le stesse impostazioni**;
 - per i puntini di sospensione lascia la pausa nel testo; se il modello la ignora, separa la frase in due file;
 - nomina i file `VO_01.wav` … `VO_09.wav` nell'ordine della tabella.
 
-Istruzione di stile, se il modello la accetta: *"Italian male narrator, warm deep voice, solemn nature-documentary delivery, slow pace, completely serious."*
+Istruzione di stile, se il modello la accetta: *"British male narrator, warm deep voice, solemn nature-documentary delivery, slow pace, completely serious."*
 
 ## Mix con la voce
 - In FCP aggiungi il ruolo audio `Voce`.

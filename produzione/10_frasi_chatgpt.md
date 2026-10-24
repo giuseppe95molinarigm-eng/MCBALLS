@@ -14,6 +14,8 @@ Regole:
 
 ## Luoghi (sfondi vuoti, per fissare i posti)
 
+> **L1 approvato (24/10/2026):** porta in legno azzurro-grigio con **maniglia a destra e cardini a sinistra**, scala con corrimano a sinistra, finestra in alto a destra, luce calda del pomeriggio, pavimento in cotto. Questa versione sostituisce la descrizione della porta in `01_sceneggiatura_tecnica.md` (maniglia a sinistra): vale per tutte le scene. La porta si apre comunque verso l'esterno.
+
 | File | Frase |
 |---|---|
 | `L1_interno_chiuso` | Sfondo vuoto senza personaggi: pianerottolo di una vecchia casa italiana, muro bianco sporco, pavimento in cotto, una porta stretta di legno azzurro-petrolio chiusa, con la maniglia nera a sinistra e un filo di luce sotto. |

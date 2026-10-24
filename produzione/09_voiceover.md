@@ -11,7 +11,8 @@ Voce maschile adulta, calda e solenne, da **documentario naturalistico**, recita
 
 | Timecode | Inquadratura | Battuta | Durata parlato |
 |---|---|---|---|
-| 0:00.5–0:05.5 | 1A–1B | «Questo è Macpalle. Certosino. Ogni giorno, alla stessa ora, chiede una sola cosa… il tetto.» | ~5,0 s |
+| 0:00.5–0:02.8 | 1A | «Questo è Macpalle. Certosino.» | ~2,0 s |
+| 0:03.0–0:06.0 | 1B | «E piange perché dietro quella porta c'è l'unica cosa che desidera… il tetto.» | ~3,0 s |
 | 0:08.3–0:11.8 | 2A–2B | «Ma il padrone conosce il suo gatto. E la porta resta chiusa.» | ~3,5 s |
 | 0:12.0–0:14.0 | 2C | *(silenzio: miagolio lungo e sguardo)* | — |
 | 0:15.0–0:19.0 | 3A–3C | «Perché lassù, Macpalle sa chi è davvero.» … *(pausa)* … «Il re del tetto.» | ~3,5 s |

@@ -12,7 +12,7 @@ Aggiunto su richiesta (18/10/2026): un narratore racconta l'episodio. Sostituisc
 | Timecode | Inquadratura | Battuta | Durata parlato |
 |---|---|---|---|
 | 0:00.5–0:02.8 | 1A | «This is McBalls. A Chartreux.» | ~2,0 s |
-| 0:03.0–0:06.0 | 1B | «And he's crying because behind that door lies the only thing he truly desires… the roof.» | ~3,0 s |
+| 0:03.0–0:07.0 | 1B | «He's crying because behind that door lies the one thing he wants… the roof.» | ~3,5 s |
 | 0:08.3–0:11.8 | 2A–2B | «But his owner knows his cat. And the door stays shut.» | ~3,5 s |
 | 0:12.0–0:14.0 | 2C | *(silenzio: miagolio lungo e sguardo)* | — |
 | 0:15.0–0:19.0 | 3A–3C | «Because up there, McBalls knows who he really is.» … *(pausa)* … «The King of the Roof.» | ~3,5 s |
